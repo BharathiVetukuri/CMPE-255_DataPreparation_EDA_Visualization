@@ -441,7 +441,7 @@ You can access the live demo of the project by visiting the following link:
 
 - [Live Demo](https://huggingface.co/spaces/shubh7/gradio-CoinCast)
 
-The demo allows you to input data and observe predictions made by the models including *ARIMA, **Random Forest, **Gradient Boosting, and **LSTM*.
+The demo allows you to input data and observe predictions made by the models including *ARIMA*, *Random Forest*, *Gradient Boosting* and *LSTM*.
 
 ## Phase 7: Project Artifacts Open Source
 
@@ -472,5 +472,7 @@ This project and all model artifacts are open source and licensed under the [MIT
 Feel free to explore the live demo and models. Contributions to improve or extend the project are always welcome!
 
 ## Youtube Video Link: https://youtu.be/YdtHgoyENoA
+
+[![CoinCast](https://img.youtube.com/vi/YdtHgoyENoA/0.jpg)](https://www.youtube.com/watch?v=YdtHgoyENoA) 
 
 
