@@ -153,7 +153,7 @@ This open-source approach ensures accessibility, transparency, and reproducibili
 In this phase, we explored the historical Bitcoin dataset to gain insights into the data structure and quality.
 
 ### Data Source
-- The dataset includes columns for Open, High, Low, Close prices, Volume and Timestamps.
+- The dataset includes columns for **Open, High, Low, Close prices, Volume and Timestamps**.
 
 ### Key Steps Performed
 1. *Timestamp Conversion*:
@@ -161,7 +161,7 @@ In this phase, we explored the historical Bitcoin dataset to gain insights into 
 2. *Data Aggregation*:
    - Aggregated data to a daily level by calculating the mean values for OHLC prices and Volume.
 3. *Univariate Analysis*:
-   - Calculated *average, **minimum, and **maximum* prices.
+   - Calculated *average, *minimum, and *maximum prices.
    - Checked for *outliers* using Interquartile Range (IQR).
    - Visualized the data using *line plots* to observe price trends over time.
 
