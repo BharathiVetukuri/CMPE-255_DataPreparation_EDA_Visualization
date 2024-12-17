@@ -13,7 +13,7 @@
 
 ## Abstract
 
-The volatility of Bitcoin prices creates significant challenges for investors and financial analysts. This project addresses the problem by developing robust time series forecasting models to predict Bitcoin prices using historical Open, High, Low, Close (OHLC), and Volume data. Models explored include ARIMA, Random Forest, Gradient Boosting, and LSTM. Ablation studies and hyperparameter tuning were performed to optimize model performance. The CRISP-DM methodology was adopted to ensure a systematic approach, including data understanding, preparation, modeling, and evaluation. The resulting models were evaluated on metrics such as MSE, RMSE, and R², with visualizations to demonstrate performance. A Gradio-based application was deployed for inference, with production pipelines implemented on a cloud platform.
+The volatility of Bitcoin prices creates significant challenges for investors and financial analysts. This project addresses the problem by developing robust time series forecasting models to predict Bitcoin prices using historical Open, High, Low, Close (OHLC), and Volume data. Models explored include ARIMA, Random Forest, Gradient Boosting, and LSTM. Ablation studies and hyperparameter tuning were performed to optimize model performance. The CRISP-DM methodology was adopted to ensure a systematic approach, including data understanding, preparation, modeling, and evaluation. The resulting models were evaluated on metrics such as MSE, RMSE and R² with visualizations to demonstrate performance. A Gradio-based application was deployed for inference, with production pipelines implemented on a cloud platform.
 
 ---
 
