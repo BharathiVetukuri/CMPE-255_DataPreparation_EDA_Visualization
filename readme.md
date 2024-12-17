@@ -197,28 +197,36 @@ pip install gradio
 ## Required Libraries
 The following libraries were used for data manipulation, visualization, and model building:
 
-python
 # Import necessary libraries
 import math                 # For mathematical operations
+
 import numpy as np          # For numerical operations
+
 import pandas as pd         # For data manipulation and analysis
+
 import seaborn as sns       # For data visualization
+
 sns.set_style('whitegrid')  # Set seaborn style to whitegrid
+
 import matplotlib.pyplot as plt  # For plotting graphs
+
 plt.style.use("fivethirtyeight")  # Use 'fivethirtyeight' style for matplotlib plots
 
-# Keras libraries for building neural network models
+### Keras libraries for building neural network models
 from keras.models import Sequential  # For sequential model building
+
 from keras.callbacks import EarlyStopping  # For early stopping during model training
+
 from keras.layers import Dense, LSTM, Dropout  # Layers for neural network
 
-# Scikit-learn libraries for preprocessing and evaluation
+### Scikit-learn libraries for preprocessing and evaluation
 from sklearn.preprocessing import MinMaxScaler  # For data normalization
+
 from sklearn.model_selection import train_test_split  # For train-test split
+
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score  # Model evaluation
 
 import warnings  # To ignore warnings
-warnings.simplefilter('ignore')
 
 
 ---
