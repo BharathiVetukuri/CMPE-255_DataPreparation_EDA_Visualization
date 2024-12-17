@@ -161,7 +161,7 @@ In this phase, we explored the historical Bitcoin dataset to gain insights into 
 2. *Data Aggregation*:
    - Aggregated data to a daily level by calculating the mean values for OHLC prices and Volume.
 3. *Univariate Analysis*:
-   - Calculated *average, *minimum, and *maximum prices.
+   - Calculated *average*, *minimum*, and *maximum* prices.
    - Checked for *outliers* using Interquartile Range (IQR).
    - Visualized the data using *line plots* to observe price trends over time.
 
@@ -225,6 +225,7 @@ warnings.simplefilter('ignore')
 
 ## Dataset Download
 The Bitcoin dataset was downloaded from Kaggle using kagglehub. Make sure to set up your Kaggle API key.
+https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data 
 
 python
 import kagglehub
@@ -471,5 +472,5 @@ This project and all model artifacts are open source and licensed under the [MIT
 Feel free to explore the live demo and models. Contributions to improve or extend the project are always welcome!
 
 ## Youtube Video Link: https://youtu.be/YdtHgoyENoA
-Youtube Video Link: https://youtu.be/YdtHgoyENoA 
+
 
