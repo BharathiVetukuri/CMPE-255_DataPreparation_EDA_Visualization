@@ -153,7 +153,7 @@ This open-source approach ensures accessibility, transparency, and reproducibili
 In this phase, we explored the historical Bitcoin dataset to gain insights into the data structure and quality.
 
 ### Data Source
-- The dataset includes columns for *Open, **High, **Low, **Close* prices, *Volume, and **Timestamps*.
+- The dataset includes columns for Open, High, Low, Close prices, Volume and Timestamps.
 
 ### Key Steps Performed
 1. *Timestamp Conversion*:
