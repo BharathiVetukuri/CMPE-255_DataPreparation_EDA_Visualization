@@ -479,6 +479,8 @@ This project and all model artifacts are open source and licensed under the [MIT
 
 Feel free to explore the live demo and models. Contributions to improve or extend the project are always welcome!
 
+## Colab Link:https://colab.research.google.com/drive/14fnGxDiKe7QIvn2KhoKT5LRugcQ07JiS?usp=sharing 
+
 ## Youtube Video Link: https://youtu.be/YdtHgoyENoA
 
 [![CoinCast](https://img.youtube.com/vi/YdtHgoyENoA/0.jpg)](https://www.youtube.com/watch?v=YdtHgoyENoA) 
